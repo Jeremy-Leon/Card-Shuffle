@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 
 /* 
- * This program is a card shuffling simulation to show the ammount of time/itterations it takes to achieve the same card shuffle twice given n cards.
+ * This program is a card shuffling simulation to show the amount of time/itterations it takes to achieve the same card shuffle twice given n cards.
  *
  * The program will prompt the user to select how many cards they would like to shuffle (1 to 52 cards).
  * The program will then shuffle the cards and add the shuffle to a dictionary.
